@@ -1,2 +1,2 @@
-# Ai-career-recommender
-AI-Based IT Career Recommender project by QuadCoders team
+# AI Career Recommender
+This project is for personalized education and career guidance.
